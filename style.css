@@ -1,0 +1,103 @@
+.main-all{
+    display: grid;
+    width: 100%;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.main{
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 750px;
+}
+.logo-gg{
+    margin-left: 12px;
+}
+.text{
+    font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+    font-weight: 100;
+    padding: 15px;
+}
+.clear{
+    padding: 8px;
+}
+.logo{
+    margin-bottom: -25px;
+}
+.logo-gg{
+    width: 70px;
+}
+.text-input{
+    font-size: 14px;
+    border: 2px solid #ccc;
+    padding: 7px;
+    border-radius: 4px;
+}
+h5{
+    margin-left: 20px;
+    font-size: small;
+    font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+}
+.form-input{
+    width: 52.5%;
+    font-size: 14px;
+    border: 2px solid #ccc;
+    padding: 7px;
+    border-radius: 4px;
+}
+.clear2{
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(52, 81, 145);
+}
+.text-from p{
+    color: #ccc;
+    font-size: xx-small;
+    font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+}
+p{
+    font-size: 15px;
+    font-family: Courier New Courier;
+}
+
+.submit{
+    margin-left: 223px;
+    border: 1px;
+    width: 90px;
+    height: 32px;
+    background: rgb(28, 25, 214);
+    color: #fff;
+
+}
+.submit:hover{
+    background: rgb(20, 18, 173); ;
+}
+input{
+    outline: none;
+}
+.img-left {
+    float: right;
+    margin-top: -23px;
+}
+.img-left p{
+    width: 75%;
+    font-weight: 900;
+    font-style: unset;
+}
+.logo{
+    font-size: 5%;
+    margin-bottom: -55px;
+}
+#right{
+    width: 300px;
+    min-height: 500px;
+    float: right;
+    margin-bottom: 5px;
+}
+.error-msg {
+    color: red;
+}
